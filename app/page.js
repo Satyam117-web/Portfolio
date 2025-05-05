@@ -199,7 +199,7 @@ export default function Home() {
               variants={item}
             >
               Hi , I&apos;m{" "}
-              <span className="font-extrabold text-4xl md:text-6xl text-yellow-400">
+              <span className="font-extrabold text-4xl md:text-6xl text-yellow-500">
                 Satyam
               </span>
             </motion.h1>
