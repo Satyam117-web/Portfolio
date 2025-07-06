@@ -144,7 +144,7 @@ const Navbar = () => {
               <a
                 href="/Resume Satyam.pdf"
                 download
-                className="block py-2 px-4 text-white/90 hover:text-yellow-300 transition-colors duration-200"
+                className="block py-2 px-3 text-white/90 hover:text-yellow-300 transition-colors duration-200"
               >
                 # Download CV
               </a>
