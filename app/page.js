@@ -427,13 +427,25 @@ export default function Home() {
         <motion.div variants={scaleUp} className="px-2 md:px-0">
           <Slider {...settings}>
           {[
-              {
-                image: "./images/spotify.avif",
-                title: "Spotify clone",
-                description:
-                  "A good listening experience with this application",
-                link: "https://github.com/Satyam117-web/Spotify",
-              },
+            {
+              image: "./images/spotify.avif",
+              title: "Spotify clone",
+              description:
+              "A good listening experience with this application",
+              link: "https://github.com/Satyam117-web/Spotify",
+            },
+            { 
+             image:"./Ezmart.png",
+             title:"Ezmart",
+             description:"A web application for online shopping",
+             link:"https://ezmart1.vercel.app/"
+            },
+            {
+              image:"./Localite.png",
+              title:"Localite",
+              description:"A web application for local businesses",
+              link:"https://localite-xzyk.vercel.app/"
+            },
               {
                 image: "./pass.jpg",
                 title: "Password Manager",
