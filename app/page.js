@@ -463,7 +463,7 @@ export default function Home() {
                 image: "./brainwave.jpeg",
                 title: "Brainwave",
                 description: "A react based website with some cool designs",
-                link: "https://github.com/Satyam117-web/WebsitePro",
+                link: "https://website-pro-tau.vercel.app/",
               },
               {
                 image: "./todolist.jpg",
