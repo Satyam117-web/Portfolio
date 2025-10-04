@@ -142,7 +142,7 @@ const Navbar = () => {
             )}
             <li>
               <a
-                href="/Resume Satyam.pdf"
+                href="/Satyam Resume.pdf"
                 download
                 className="block py-2 px-3 text-white/90 hover:text-yellow-300 transition-colors duration-200"
               >
