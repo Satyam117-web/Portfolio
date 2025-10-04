@@ -80,7 +80,7 @@ const Navbar = () => {
           ))}
           <li>
             <a
-              href="/Resume Satyam.pdf"
+              href="/Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-yellow-300 text-white/90 transition-colors duration-200"
@@ -142,7 +142,7 @@ const Navbar = () => {
             )}
             <li>
               <a
-                href="/Satyam Resume.pdf"
+                href="/Resume.pdf"
                 download
                 className="block py-2 px-3 text-white/90 hover:text-yellow-300 transition-colors duration-200"
               >
